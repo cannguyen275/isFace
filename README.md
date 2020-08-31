@@ -15,7 +15,7 @@ This simple idea help to pass a problem of false detection in my face detection 
 ## Dataset
 ### Introduction
 
-Dataset is self-collected contained. This is how I create a data:
+Dataset is self-collected. This is how I create a data:
 
 - Collect from MegaFace: crop faces from train set for face class, random a non-face location for non-face class.
 - Collect from COCO dataset: which each class of COCO dataset, randomly a 400 images for each class. I labels it as non-face class.
